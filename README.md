@@ -1,4 +1,4 @@
-# UfaHack2024
+# ML University
 <img src="https://images.squarespace-cdn.com/content/v1/6201920e5d62b32f53d158bb/1646055024414-55O3Y8GPH2DM30WXAWVM/Screen%2BShot%2B2021-11-18%2Bat%2B1.18.40%2BPM.png" alt="Face" width="10%" height="10%">
 ML University 2024
 
